@@ -1,5 +1,5 @@
 # European Patent Classification
-<img src="https://th.bing.com/th/id/OIP.ZvRlZYpPjNhWAEf2dZZZ3AHaEl?w=282&h=180&c=7&r=0&o=5&dpr=2.5&pid=1.7" alt="Hero image for European Patent Relevancy Check Project" width="100%" height="100px">
+<img src="https://th.bing.com/th/id/OIP.ZvRlZYpPjNhWAEf2dZZZ3AHaEl?w=282&h=180&c=7&r=0&o=5&dpr=2.5&pid=1.7" alt="Hero image for European Patent Relevancy Check Project" width="100%" height="400px">
 
 
 ## Overview
