@@ -23,7 +23,7 @@ In the field of intellectual property and patent law, it is crucial to determine
 To get started with this project and explore the code and implementation details, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Open the Jupyter Notebook (`european_patent_relavancy_check.ipynb`) in your preferred Python environment.
+2. Open the Jupyter Notebook [european_patent_relavancy_check](https://github.com/jarvisx17/EPO/blob/main/Final-epo-model-training.ipynb) in your preferred Python environment.
 3. Follow the instructions and code cells within the notebook to understand how European patent claims are classified and citations are matched.
 
 ## Requirements
@@ -58,4 +58,4 @@ We would like to acknowledge the contributions of the open-source community and 
 
 ---
 
-Feel free to explore the Jupyter Notebook to understand the inner workings of the European Patent Relavancy Check project and leverage the power of BERT for patent analysis and classification. If you have any questions or encounter any issues, please don't hesitate to reach out to the project maintainers.
+Feel free to explore the Jupyter Notebook to understand the inner workings of the European Patent Relevancy Check project and leverage the power of BERT for patent analysis and classification. If you have any questions or encounter any issues, please don't hesitate to reach out to the project maintainers.
