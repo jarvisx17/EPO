@@ -1,6 +1,5 @@
-# European Patent Relavancy Check Project
-
-<img src="https://th.bing.com/th/id/OIP.ZvRlZYpPjNhWAEf2dZZZ3AHaEl?w=282&h=180&c=7&r=0&o=5&dpr=2.5&pid=1.7" alt="Hero image for European Patent Relavancy Check Project" width="100%" height="auto">
+# European Patent Classification
+<img src="https://th.bing.com/th/id/OIP.ZvRlZYpPjNhWAEf2dZZZ3AHaEl?w=282&h=180&c=7&r=0&o=5&dpr=2.5&pid=1.7" alt="Hero image for European Patent Relevancy Check Project" width="100%" height="70%">
 
 
 ## Overview
@@ -9,7 +8,7 @@ This project focuses on classifying European patent claims and performing citati
 
 ## Project Description
 
-In the field of intellectual property and patent law, it is crucial to determine whether a patent claim is relevant to prior art and to identify citations that support or challenge the novelty and uniqueness of a given patent. Manual review of patents and their associated claims can be time-consuming and error-prone. This project leverages natural language processing techniques and BERT, a state-of-the-art language model, to automate and improve this process.
+In the field of intellectual property and patent law, it is crucial to determine whether a patent claim is relevant to the prior art and to identify citations that support or challenge the novelty and uniqueness of a given patent. Manual review of patents and their associated claims can be time-consuming and error-prone. This project leverages natural language processing techniques and BERT, a state-of-the-art language model, to automate and improve this process.
 
 ### Key Features
 
